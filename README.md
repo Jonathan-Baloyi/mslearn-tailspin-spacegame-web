@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/JonathanBaloyi/LearningAzure/_apis/build/status/Jonathan-Baloyi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/JonathanBaloyi/LearningAzure/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
