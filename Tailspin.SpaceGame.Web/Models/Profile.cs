@@ -1,5 +1,8 @@
 ﻿using Newtonsoft.Json;
 
+/**
+ * Testing if the build will be triggered
+ */
 namespace TailSpin.SpaceGame.Web.Models
 {
     public class Profile : Model
