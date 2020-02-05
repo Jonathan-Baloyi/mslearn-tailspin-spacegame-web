@@ -1,5 +1,8 @@
 ﻿using System.Collections.Generic;
 
+/**
+ * Test unit tests
+ */
 namespace TailSpin.SpaceGame.Web.Models
 {
     public class LeaderboardViewModel
