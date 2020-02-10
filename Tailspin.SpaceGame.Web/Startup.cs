@@ -12,6 +12,10 @@ using TailSpin.SpaceGame.Web.Models;
 using Microsoft.AspNetCore.Http;
 
 
+
+/**
+ * This triggers the build
+ */
 namespace TailSpin.SpaceGame.Web
 {
     public class Startup
